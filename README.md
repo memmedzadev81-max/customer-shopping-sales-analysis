@@ -1,2 +1,9 @@
-# customer-shopping-sales-analysis
-End-to-end customer shopping sales analysis using Python, Pandas, Matplotlib, and Exploratory Data Analysis (EDA) to generate business insights and data-driven recommendations.
+# 🛍️ Customer Shopping Sales Analysis
+
+## 📖 Project Overview
+
+This project presents an end-to-end Exploratory Data Analysis (EDA) of a customer shopping dataset using Python.
+
+The primary goal is to transform raw transactional data into meaningful business insights through data cleaning, visualization, and statistical analysis.
+
+The project demonstrates a real-world data analytics workflow that supports data-driven business decisions.
